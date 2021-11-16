@@ -1,4 +1,4 @@
-# gitTest
+# git_test
 
 my first repo, I have no clue what I am doing over here.
 Hello Odin!!
